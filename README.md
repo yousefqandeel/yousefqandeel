@@ -14,7 +14,7 @@
 <img align="center" width="12%" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
 </p>
 
-<p allign="left">
+<p allign="center">
 
 ## Contact me
 > [<img width="9%" src="https://img.icons8.com/color/344/linkedin.png"/>](https://www.linkedin.com/in/yousef-qandeel/)
