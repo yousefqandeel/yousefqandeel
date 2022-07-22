@@ -10,8 +10,8 @@
 <img align="left" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor"/>
 <img align="left" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"/>
 <img align="left" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor"/>
-<img align="left" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor"/>
-<img align="center" width="8%" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
+<img align="left" width="12%" src="https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=128&color=currentColor"/>
+<img align="center" width="12%" src="https://img.icons8.com/external-flat-juicy-fish/344/external-sql-coding-and-development-flat-flat-juicy-fish.png"/>
 </p>
 
 <p allign="center">
