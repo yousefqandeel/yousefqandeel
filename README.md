@@ -1,7 +1,7 @@
 # Hi there, I'm Yousef 👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yousefqaneel&theme=highcontrast&show_icons=true"/>
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefqaneel&theme=buefy&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=yousefqandeel&theme=highcontrast&show_icons=true"/>
+<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefqandeel&theme=buefy&layout=compact"/>
 
 ## Skills
 <p allign="center">
